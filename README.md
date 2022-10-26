@@ -8,11 +8,16 @@ This is a script that spawns a ped that you can interact with via qb-target and 
 
 [qb-target](https://github.com/qbcore-framework/qb-target)
 
+[ps-zones](https://github.com/Project-Sloth/ps-zones)
+
+
 Optional
 
 [Renewed-Banking](https://github.com/Renewed-Scripts/Renewed-Banking)
 
 [Renewed-phone](https://github.com/qbcore-framework/qb-phone)
+
+
 
 ## Demo
 
