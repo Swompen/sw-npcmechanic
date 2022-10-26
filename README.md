@@ -17,3 +17,7 @@ Optional
 ## Demo
 
 https://medal.tv/games/gta-v/clips/FZisIE61Z8_v2/zXm0SDS9Hua6
+
+
+## Join my Discord Server
+[![Discord](https://img.shields.io/discord/1034349935249858662?style=for-the-badge&label=Discord%20Server)](https://discord.gg/ckYfQWDKe7)
